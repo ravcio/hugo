@@ -6,8 +6,6 @@ draft = false
 
 # Flutter
 
-$$ \sum_{n=1000}^{2000}n  $$
-
 ```bash
 flutter doctor
 flutter create first_project

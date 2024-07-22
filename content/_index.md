@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Avendi blog
 toc: false
 ---
 
-This is the landing page.
+Avendi - szkolenia
 
 ## Explore
 
@@ -14,4 +14,4 @@ This is the landing page.
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information, visit [Avendi](https://avendi.edu.pl/).

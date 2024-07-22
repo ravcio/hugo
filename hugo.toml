@@ -1,4 +1,0 @@
-baseURL = 'https://ravcio.github.io/hugo/'
-languageCode = 'en-us'
-title = 'Ravcio site'
-theme = 'ananke'

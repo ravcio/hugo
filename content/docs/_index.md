@@ -1,18 +1,10 @@
 ---
-title: Documentation
-next: first-page
+title: Avendi blog
+type: docs
+prev: docs/first-page
+next: docs/folder/leaf
+sidebar:
+  open: true
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+Pages can be organized into folders.

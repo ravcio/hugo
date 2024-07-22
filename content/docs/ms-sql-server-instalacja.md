@@ -2,6 +2,7 @@
 title: SQL Server instalacja
 type: docs
 math: true
+weight: 1
 prev: docs/folder/
 ---
 

@@ -2,6 +2,7 @@
 title: Oracle instalacja
 type: docs
 math: true
+weight: 2
 prev: docs/folder/
 ---
 

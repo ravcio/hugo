@@ -1,6 +1,5 @@
 ---
-title: About
+title: O Nas
 type: about
 ---
 
-This is the about page.

@@ -2,22 +2,22 @@
 title: Nieskończoność
 type: docs
 math: true
-weight: 3
+weight: 1
 prev: docs/folder/
 ---
 
 Granica pomiędzy mało a dużo dla komputera nie jest
-tak rozmyta czy nieokreślona jak może się wydawać.
+tak rozmyta (nieokreślona) jak może się wydawać.
 
 
 
 
 ## 2**64 to nieskończenie dużo
 
-Dla pojedynczego komputera $2^{64}$ to jest nieskończona liczba.
-Natomiast liczba $2^{32}$ to jest bardzo mało.
+Dla pojedynczego komputera wartość $2^{64}$ to jest nieskończona liczba.
+Natomiast wartość $2^{32}$ to jest bardzo mało.
 
-- Ilość ram $2^{32}$ bajtów jest zerowany w mniej niż 1 sekundę. Ilość ram $2^{64}$ bajtów jest zerowany przez 100 lat.
+- Ilość RAM $2^{32}$ bajtów jest zerowany w mniej niż 1 sekundę. Ilość RAM $2^{64}$ bajtów jest zerowany przez 100 lat.
 - Pętla która robi $2^{64}$ nie skończy się w ciągu 100 lat.
 - Ilość danych wygenerowana przez ludzkość to więcej niż $2^{64}$, 
   więc dla chmury obliczeniowej czy dużej serwerowni jest to siągalna liczba. 

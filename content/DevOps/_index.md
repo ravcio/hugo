@@ -1,5 +1,5 @@
 ---
-title: Avendi docs
+title: DevOps
 type: docs
 # prev: docs/first-page
 # next: docs/folder/leaf

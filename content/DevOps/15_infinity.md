@@ -75,7 +75,7 @@ list(a[idx-2:idx+3])
 
 
 
-##
+## Tabela szacowanego rozmiaru dla kolejnyh potęg 2
 
 
 |     2^ | typ danych | opis                                                                                      |
@@ -346,3 +346,23 @@ list(a[idx-2:idx+3])
 |    264 |            |                                                                                           |
 |    265 |            |                                                                                           |
 |    266 |            | liczba atomów we wszechświecie                                                            |
+
+
+## 2**32 to mało dla komputera
+
+Czas działania ok. 1.31 sec:
+```python {filename="python"}
+from numba import njit
+
+@njit
+def fun():
+    s = 0
+    for i in range(2**32):
+        s += i%10
+    return s
+
+%timeit res = fun()
+print(res)
+```
+
+Moduł `numba` kompiluje kod Python przed wykonaniem.

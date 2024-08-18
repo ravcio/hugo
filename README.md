@@ -1,3 +1,8 @@
+# Github pages
+
+https://ravcio.github.io/hugo/
+
+
 # Hextra Starter Template
 
 [![Deploy Hugo site to Pages](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml/badge.svg)](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml)

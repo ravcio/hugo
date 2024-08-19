@@ -1,4 +1,8 @@
-# Język Python - kurs kompleksowy egzamin
+# Egzamin
+
+2024-08-19, kurs: PY223
+
+## Język Python - kurs kompleksowy
 
 Do rozwiązania jest 6 zadań:
 - czas na rozwiązanie zadań: **1 godzina**.
@@ -6,7 +10,7 @@ Do rozwiązania jest 6 zadań:
 - dopuszczone korzystanie z internetu (stack overflow, google, blogi). Wyjątek: chatgpt.
 - chatgpt i inne ai: potrafią rozwiązać poniższe zadania. Proszę nie korzystać.
 - maksymalna liczba punktów: **100 pkt**.
-- do zaliczenia wymagane jest 50 pkt.
+- minimum wymagane do zaliczenia: 50 pkt.
 
 
 ### PE1.1
@@ -20,6 +24,8 @@ rosnącej i malejącej w osobnych
 kolumnach.
 
 Program ma zapytać o liczbę N (funkcja `input`).
+
+Przykład:
 ```
 Podaj n:5
 0 5
@@ -36,13 +42,18 @@ Podaj n:5
 20 pkt.
 
 
-Napisz program, który wygeneruje i wyświetli listę, która ma 20 następujących elementów:
+Napisz program, który wygeneruje i wyświetli listę, 
+która ma 20 następujących elementów:
+Każdy element jest typu tekstowego.
+Użyj pętli. 
+
+
+Oczekiwny wynik:
 
 ```
 ['1-a', '2-b', '3-c', ..., '20-t']
 ```
 
-Każdy element jest typu tekstowego.
 
 
 
@@ -57,6 +68,8 @@ Pod kluczem parzyste ma być lista z liczbami parzystymi od 0 do 100.
 Pod kluczem nieparzyste ma być lista z liczbami nieparzystymi od 0 do 100.
 
 Zapisz słownik na dysku z pliku **dane.json**.
+
+Oczekiwana zawartość pliku json:
 
 ```json
 {
@@ -75,7 +88,7 @@ Oblicz ile dni mija:
 - od bitwy pod Grunwaldem (15 lipca 1410)
 - do dziś
 
-
+Obie daty mogą być zaszyte w kodzie programu.
 
 ### PE1.5
 

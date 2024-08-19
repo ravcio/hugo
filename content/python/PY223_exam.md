@@ -11,6 +11,8 @@ Do rozwiązania jest 6 zadań:
 - chatgpt i inne ai: potrafią rozwiązać poniższe zadania. Proszę nie korzystać.
 - maksymalna liczba punktów: **100 pkt**.
 - minimum wymagane do zaliczenia: 50 pkt.
+- rozwiązania w jednym pliku **\*.py** lub **\*.ipynb** w osobnych komórkach 
+  lub w osobnych plikach \*.py
 
 
 ### PE1.1

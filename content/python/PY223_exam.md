@@ -1,3 +1,11 @@
+---
+title: Egzamin
+type: docs
+math: true
+weight: 1
+prev: docs/folder/
+---
+
 # Egzamin
 
 2024-08-19, kurs: PY223

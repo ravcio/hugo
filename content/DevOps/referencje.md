@@ -18,11 +18,14 @@ prev: docs/folder/
 
 # Pogoda
 - https://radar-opadow.pl/
-- https://www.windy.com/-Waves-waves
+- https://www.windy.com/
 
 # Szkoły i fundaje
 - https://avendi.edu.pl/
+- https://mint.avendi.edu.pl/konto/
 - https://www.sunortus.pl/
+
+
 
 
 

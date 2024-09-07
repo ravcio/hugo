@@ -6,21 +6,21 @@ weight: 1
 prev: docs/folder/
 ---
 
-# CPU design
+## CPU design
 
 - Ken Shirriff's blog  http://www.righto.com/
 - Agner Fog https://www.agner.org/
 - The ryg blog  https://fgiesen.wordpress.com/
 
-# Statki
+## Statki
 - https://www.vesselfinder.com/
 - https://www.flightradar24.com/
 
-# Pogoda
+## Pogoda
 - https://radar-opadow.pl/
 - https://www.windy.com/
 
-# Szkoły i fundaje
+## Szkoły i fundaje
 - https://avendi.edu.pl/
 - https://mint.avendi.edu.pl/konto/
 - https://www.sunortus.pl/

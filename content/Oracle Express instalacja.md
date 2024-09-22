@@ -285,6 +285,6 @@ Rozwiązanie:
 - wykonaj **New Database Connection…**
 
 Kroki:
-[Połączenie do bazy HR](https://ravcio.github.io/hugo/oracle-express-instalacja/#po%c5%82%c4%85czenie-dobazy-hr)
+[Połączenie do bazy HR](#po%c5%82%c4%85czenie-dobazy-hr)
 
 

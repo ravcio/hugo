@@ -287,4 +287,20 @@ Rozwiązanie:
 Kroki:
 [Połączenie do bazy HR](#po%c5%82%c4%85czenie-dobazy-hr)
 
+### Brak TNS Listener
+
+```
+SQL> connect sys/Admin@//localhost:1521/XEPDB1 as sysdba
+ERROR:
+ORA-12541: TNS:no listener
+
+
+Warning: You are no longer connected to ORACLE.
+SQL>
+```
+
+
+
+Rozwiązanie:
+- odinstaluj całego Oracle i zainstaluj od nowa
 

@@ -1,4 +1,4 @@
-# Edycja dokumntów markdown
+# Edycja dokumentów Markdown
 
 ## Znaki
 

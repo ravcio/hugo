@@ -7,9 +7,7 @@ prev: docs/folder/
 ---
 
 
-# Moduł Younga
 
-https://pl.wikipedia.org/wiki/Modu%C5%82_Younga
 
 ## Zadanie
 
@@ -36,4 +34,7 @@ print(f'Zmiana długość: {zmiana_długości_nogi*1000:.3f}mm')
 
 Zmiana długość: 0.850mm (oj, chyba powinno być mniej?)
 
+## Referencje
+
+- https://pl.wikipedia.org/wiki/Modu%C5%82_Younga
 

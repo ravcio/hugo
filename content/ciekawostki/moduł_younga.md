@@ -1,3 +1,12 @@
+---
+title: Moduł Younga
+type: docs
+math: true
+weight: 1
+prev: docs/folder/
+---
+
+
 # Moduł Younga
 
 https://pl.wikipedia.org/wiki/Modu%C5%82_Younga

@@ -2,7 +2,7 @@
 title: Markdown
 type: docs
 math: true
-weight: 1
+weight: 2
 prev: docs/folder/
 ---
 

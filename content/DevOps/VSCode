@@ -1,8 +1,8 @@
 ---
 title: VSCode
 type: docs
-math: true
-weight: 1
+math: false
+weight: 4
 prev: docs/folder/
 ---
 

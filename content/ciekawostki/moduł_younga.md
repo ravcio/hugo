@@ -27,12 +27,13 @@ Rozwiązanie:
 drewno_sosna_moduł_younga = 9  # GPa
 długość = 0.42  # m
 przekrój = 0.03*0.03  # m2
+liczba_nóg = 4
 
-zmiana_długości_nogi = drewno_sosna_moduł_younga * długość * przekrój
+zmiana_długości_nogi = drewno_sosna_moduł_younga * długość * przekrój / liczba_nóg
 
 print(f'Zmiana długość: {zmiana_długości_nogi*1000:.3f}mm')
 ```
 
-Zmiana długość: 3.402mm (oj, chyba powinno być mniej)
+Zmiana długość: 0.850mm (oj, chyba powinno być mniej?)
 
 

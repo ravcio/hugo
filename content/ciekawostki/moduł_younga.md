@@ -24,5 +24,6 @@ zmiana_długości_nogi = drewno_sosna_moduł_younga * długość * przekrój
 print(f'Zmiana długość: {zmiana_długości_nogi*1000:.3f}mm')
 ```
 
-Zmiana długość: 3.402mm
+Zmiana długość: 3.402mm (oj, chyba powinno być mniej)
+
 

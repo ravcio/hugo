@@ -10,7 +10,8 @@ prev: docs/folder/
 
 ## Znaki
 
-- Pauza (myślnik) — (U+2014)
+- EN DASH –  (U+2013)
+- EM DASH Pauza (myślnik) — (U+2014)
 
 ## Oznaczenia klawiszy
 - nazwy klawiszy np. <kbd>Ctrl</kbd>+<kbd>F</kbd>

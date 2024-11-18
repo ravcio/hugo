@@ -20,13 +20,13 @@ prev: docs/folder/
 - https://radar-opadow.pl/
 - https://www.windy.com/
 
-## Szkoły i fundaje
+## Szkoły i fundacje
 - https://avendi.edu.pl/
 - https://mint.avendi.edu.pl/konto/
 - https://www.sunortus.pl/
 
+## AI, Chat boty
 
-
-
-
-
+- https://chatgpt.com/ (OpenAI)
+- https://gemini.google.com/app (Google)
+- https://huggingface.co/chat/ (NVidia)

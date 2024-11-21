@@ -30,3 +30,17 @@ prev: docs/folder/
 - https://chatgpt.com/ (OpenAI)
 - https://gemini.google.com/app (Google)
 - https://huggingface.co/chat/ (NVidia)
+
+## Other
+
+- What every programmer should know about memory
+  - https://lwn.net/Articles/250967/
+- Surrounded by Idiots - Erikson Thomas
+- FBW w domu – zestaw 42 ćwiczeń na każdą partię mięśniową 
+  - http://fitwiedza.pl/fbw-w-domu-zestaw-42-cwiczen-na-kazda-partie-miesniowa/
+- Kurs CS50x WEB Dev
+  - https://cs50.harvard.edu/x/2022/
+- https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
+- https://learnopengl.com/
+
+

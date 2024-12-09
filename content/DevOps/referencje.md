@@ -30,6 +30,12 @@ prev: docs/folder/
 - https://chatgpt.com/ (OpenAI)
 - https://gemini.google.com/app (Google)
 - https://huggingface.co/chat/ (NVidia)
+- https://uvadlc-notebooks.readthedocs.io/en/latest/index.html (UvA Deep Learning)
+
+### pytorch
+- https://nextjournal.com/gkoehler/pytorch-mnist
+- https://docs.ultralytics.com/models/yolo11/
+
 
 ## Other
 

@@ -111,7 +111,8 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)    
 ```
 
-Uruchomienie:
+Uruchomienie (tryb **debug** oraz **reload**). 
+Na produkcji użyć [Gunicorn](#deploy-linux).
 
 ```bash
 cd src
@@ -180,19 +181,19 @@ if __name__ == '__main__':
 ## static
 
 Dodaj:
+```py
+@app.route('/static/<path:path>')
+def send_report(path):
+    return send_from_directory('static', path)
+```
+
+Dodaj:
 ```html
 <body>
     <h1>htmx</h1>
 
     <img src="static/dog.png" alt="">
 </body>
-```
-
-Dodaj:
-```py
-@app.route('/static/<path:path>')
-def send_report(path):
-    return send_from_directory('static', path)
 ```
 
 
@@ -386,10 +387,11 @@ killall gunicorn
 ```
 
 
-
 ## Docker
 
-```Dockerfile
+Plik **Dockerfile**:
+
+```
 FROM python:3
 
 RUN apt update
@@ -406,6 +408,8 @@ WORKDIR /app/src
 
 CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:5001", "app:app"]
 ```
+
+Plik **restart_docker.sh**:
 
 ```bash
 docker stop ave_dyplom

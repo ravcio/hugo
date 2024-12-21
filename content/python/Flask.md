@@ -1,3 +1,11 @@
+---
+title: Flask
+type: docs
+math: true
+weight: 2
+prev: docs/folder/
+---
+
 - [Moduł `flask` - tworzenie strony www](#moduł-flask---tworzenie-strony-www)
   - [Quick start](#quick-start)
   - [Setup for dev](#setup-for-dev)

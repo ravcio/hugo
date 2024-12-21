@@ -378,12 +378,48 @@ killall gunicorn
 ```
 
 
+
 ## Docker
 
+```Dockerfile
+FROM python:3
+
+RUN apt update
+RUN apt install -y gcc
+
+WORKDIR /app
+
+COPY requirements.txt requirements.txt
+RUN pip install -r requirements.txt
+EXPOSE 5001
+COPY . .
+
+WORKDIR /app/src
+
+CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:5001", "app:app"]
 ```
 
+```bash
+docker stop ave_dyplom
+docker rm ave_dyplom
+
+docker build -t ave_dyplom .
+
+docker run --restart=always --name ave_dyplom -p 5001:5001 -d -v "output:/app/pdfs" ave_dyplom
+
+echo 'http://rpi:5001/'
+
+# log:
+# docker logs -f --tail 10 ave_dyplom
+
+# bash:
+# docker run -it -v "/ave/home/03_apps/01_dyplom/pdfs:/app/pdfs" ave_dyplom  bash
+# docker run -it ave_dyplom bash
 ```
 
 
 ## nginx
 
+```
+
+```

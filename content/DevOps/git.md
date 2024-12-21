@@ -1,5 +1,14 @@
 # git helper
 
+
+## configuracja
+
+```bash
+git config pull.rebase true
+```
+
+## remote rename
+
 Ustawienie innego brancha jako remote:
 
 ```bash

@@ -1,3 +1,11 @@
+---
+title: GIT
+type: docs
+math: false
+weight: 6
+prev: docs/folder/
+---
+
 # git helper
 
 

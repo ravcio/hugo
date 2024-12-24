@@ -15,7 +15,7 @@ prev: docs/folder/
 git config pull.rebase true
 ```
 
-## squash to previous
+## squash current with to previous
 
 ```bash
 git reset --soft HEAD~2 && git commit -m 'squashed'

@@ -15,6 +15,13 @@ prev: docs/folder/
 git config pull.rebase true
 ```
 
+## squash to previous
+
+```bash
+git reset --soft HEAD~2 && git commit -m 'squashed'
+```
+
+
 ## remote rename
 
 Ustawienie innego brancha jako remote:

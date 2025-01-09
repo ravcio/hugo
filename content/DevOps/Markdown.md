@@ -16,6 +16,8 @@ prev: docs/folder/
 ## Oznaczenia klawiszy
 - nazwy klawiszy np. <kbd>Ctrl</kbd>+<kbd>F</kbd>
 
+    <kbd>'\<kbd\>'<kbd>
+
 
 ## encoding dla polskich liter
 
@@ -33,3 +35,21 @@ pd.read_html(url, encoding='UTF-8')
 - arm64/armv8/x86/x64
 
 https://godbolt.org/
+
+# Notes
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+> 

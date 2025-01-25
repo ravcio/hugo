@@ -13,8 +13,10 @@ prev: docs/folder/
 - The ryg blog  https://fgiesen.wordpress.com/
 
 ## Statki
-- https://www.vesselfinder.com/
-- https://www.flightradar24.com/
+- https://www.vesselfinder.com/ (Statki)
+- https://www.flightradar24.com/ (Samoloty)
+- https://portalpasazera.pl/MapaPociagow (Pociągi)
+- https://czynaczas.pl/trojmiasto?z=14.5&lat=54.49794472315389&lng=18.53151270958133
 
 ## Pogoda
 - https://radar-opadow.pl/

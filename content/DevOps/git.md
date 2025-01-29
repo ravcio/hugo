@@ -44,3 +44,7 @@ cat .git/config
 ```
 
 
+```
+git pull --rebase
+git log -1 --oneline
+```

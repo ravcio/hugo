@@ -38,6 +38,8 @@ prev: docs/folder/
 - https://nextjournal.com/gkoehler/pytorch-mnist
 - https://docs.ultralytics.com/models/yolo11/
 
+### Rower
+- https://veloplanner.com/
 
 ## Other
 

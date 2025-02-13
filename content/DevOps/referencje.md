@@ -31,6 +31,7 @@ prev: docs/folder/
 
 - https://chatgpt.com/ (OpenAI)
 - https://gemini.google.com/app (Google)
+- https://aistudio.google.com/prompts/new_chat (aistudio google)
 - https://huggingface.co/chat/ (NVidia)
 - https://uvadlc-notebooks.readthedocs.io/en/latest/index.html (UvA Deep Learning)
 

@@ -42,6 +42,13 @@ prev: docs/folder/
 ### Rower
 - https://veloplanner.com/
 
+### Gazety
+
+- https://www.olsztyn.com.pl
+- https://olsztyn.wyborcza.pl
+- https://gazetaolsztynska.pl/
+
+
 ## Other
 
 - What every programmer should know about memory

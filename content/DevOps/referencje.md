@@ -60,5 +60,6 @@ prev: docs/folder/
   - https://cs50.harvard.edu/x/2022/
 - https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
 - https://learnopengl.com/
+- https://edu-lokacja.pl/
 
 

@@ -29,10 +29,12 @@ prev: docs/folder/
 
 ## AI, Chat boty
 
-- https://chatgpt.com/ (OpenAI)
-- https://gemini.google.com/app (Google)
-- https://aistudio.google.com/prompts/new_chat (aistudio google)
-- https://huggingface.co/chat/ (NVidia)
+- OpenAI **ChatPT** https://chatgpt.com/
+- Google **Gemini** https://gemini.google.com/ and **Studio** https://aistudio.google.com
+- **Perplexity** https://www.perplexity.ai/
+- **Claude AI** https://claude.ai/
+- **GRok** https://x.ai/
+- **huggingface** - https://huggingface.co/chat/ (NVidia)
 - https://uvadlc-notebooks.readthedocs.io/en/latest/index.html (UvA Deep Learning)
 
 ### pytorch

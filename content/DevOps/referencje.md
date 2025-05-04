@@ -47,8 +47,16 @@ prev: docs/folder/
 ### Gazety
 
 - https://www.olsztyn.com.pl
-- https://olsztyn.wyborcza.pl
 - https://gazetaolsztynska.pl/
+- https://olsztyn.wyborcza.pl
+- https://www.trojmiasto.pl/
+- https://gdynia.naszemiasto.pl/
+- https://dziennikbaltycki.pl/
+- https://www.gdynia.plus/
+- https://gazetaswietojanska.org/
+- https://metrowarszawa.gazeta.pl/
+- https://warszawa.naszemiasto.pl/
+- https://um.warszawa.pl/
 
 
 ## Other

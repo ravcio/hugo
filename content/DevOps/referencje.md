@@ -40,6 +40,8 @@ prev: docs/folder/
 ### pytorch
 - https://nextjournal.com/gkoehler/pytorch-mnist
 - https://docs.ultralytics.com/models/yolo11/
+- https://www.ethansmith2000.com/blog-posts
+- https://mail.bycloud.ai/
 
 ### Rower
 - https://veloplanner.com/
